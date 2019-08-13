@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React (William Ouyang Test)
+          Learn React (William Ouyang Test Update)
         </a>
       </header>
     </div>

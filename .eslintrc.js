@@ -3,7 +3,6 @@ module.exports = {
     browser: true,
     es6: true
   },
-
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly'

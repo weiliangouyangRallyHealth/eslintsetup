@@ -3,7 +3,7 @@ module.exports = {
     browser: true,
     es6: true
   },
-  "extends": "eslint:recommended",
+
   globals: {
     Atomics: 'readonly',
     SharedArrayBuffer: 'readonly'
@@ -22,4 +22,4 @@ module.exports = {
     "semi": ["error", "always"],
     "quotes": ["error", "double"]
   }
-}
+};
